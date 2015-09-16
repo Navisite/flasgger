@@ -3,12 +3,6 @@ Creates Swagger 2.0 API documentation for all your Flask views extracting specs 
 
 The Swagger UI is embedded and docs by default available in **/apidocs/index.html**
 
-[![Code Health](https://landscape.io/github/rochacbruno/flasgger/master/landscape.svg?style=flat)](https://landscape.io/github/rochacbruno/flasgger/master)
-
-[![wercker status](https://app.wercker.com/status/d86586341ba8b313162b36f84b192a9c/m "wercker status")](https://app.wercker.com/project/bykey/d86586341ba8b313162b36f84b192a9c)
-
-<a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=rochacbruno%40gmail%2ecom&amp;lc=BR&amp;item_name=Flasgger&amp;no_note=0&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest"><img alt='Donate with Paypal' src='http://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif' /></a>
-
 flasgger provides an extension (Swagger) that inspects the Flask app for endpoints that contain YAML docstrings with Swagger 2.0 [Operation](https://github.com/swagger-api/swagger-spec/blob/master/versions/2.0.md#operation-object) objects.
 
 # DEMO app
